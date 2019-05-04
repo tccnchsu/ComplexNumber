@@ -1,7 +1,8 @@
 # ComplexNumber
 Complex Number
 
-
+Complex Numbers as Matrices
+https://youtu.be/kst2Io91JbM
 
 Given the Rotation Matrix (M), rotate any 2D vector in a counterclockwise by theta (x), then show that M'x rotates the vector clockwise back to the original position
 https://www.mathworks.com/matlabcentral/answers/390347-given-the-rotation-matrix-m-rotate-any-2d-vector-in-a-counterclockwise-by-theta-x-then-show-th
