@@ -8,6 +8,10 @@ https://www.integraxor.com/
 http://175.141.244.206:29101/DEM0/index-cdn.html#strz.min.svg
 
 
+8 Free And Open Source Software For SCADA
+https://electronicsforu.com/resources/cool-stuff-misc/8-free-open-source-software-scada
+
+
 
 
 Complex Numbers as Matrices
