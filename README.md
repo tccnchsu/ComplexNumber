@@ -2,8 +2,22 @@
 Complex Number
 
 
+
 Given the Rotation Matrix (M), rotate any 2D vector in a counterclockwise by theta (x), then show that M'x rotates the vector clockwise back to the original position
 https://www.mathworks.com/matlabcentral/answers/390347-given-the-rotation-matrix-m-rotate-any-2d-vector-in-a-counterclockwise-by-theta-x-then-show-th
+
+
+2D Rotations and Complex Exponentials
+https://youtu.be/b8maGEyoRjo
+
+
+3D Rotations and Quaternion Exponentials: Special Case
+https://youtu.be/UaK2q22mMEg
+
+
+Plotting a Complex exponential - G(e^jw)
+
+https://www.mathworks.com/matlabcentral/answers/169593-plotting-a-complex-exponential-g-e-jw
 
 
 MATLAB Lesson 10 - Plotting complex numbers
