@@ -16,3 +16,12 @@ z = [z1 ; z2; z3; z4] ;
 plot(real(z),imag(z))   % line plot 
 hold on
 plot(real(z),imag(z),'*r') % marker plot
+
+
+
+MATLAB Function Reference	Previous page   Next Page
+rotate 
+Rotate object about a specified direction
+
+http://matlab.izmiran.ru/help/techdoc/ref/rotate.html
+
