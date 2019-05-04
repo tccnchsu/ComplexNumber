@@ -3,6 +3,9 @@
 Short-Term Wind Power Forecasting Using Gaussian Processes
 https://www.ijcai.org/Proceedings/13/Papers/411.pdf
 
+A combined filtering strategy for short term and long term wind speed prediction with improved accuracy
+https://www.sciencedirect.com/science/article/pii/S0960148118311546
+
 Combining Web SCADA Software and Matlab-Simulink for
 Studying Wind-PV-Battery Power Systems 
 https://pdfs.semanticscholar.org/38cf/5ddda40b8ada0826bbcaa593134a34d56372.pdf
