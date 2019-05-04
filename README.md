@@ -1,5 +1,14 @@
 # ComplexNumber
-Complex Number
+
+Combining Web SCADA Software and Matlab-Simulink for
+Studying Wind-PV-Battery Power Systems 
+https://pdfs.semanticscholar.org/38cf/5ddda40b8ada0826bbcaa593134a34d56372.pdf
+
+https://www.integraxor.com/
+http://175.141.244.206:29101/DEM0/index-cdn.html#strz.min.svg
+
+
+
 
 Complex Numbers as Matrices
 https://youtu.be/kst2Io91JbM
