@@ -1,5 +1,8 @@
 # ComplexNumber
 
+Cyber-physical modeling and control of smart grids - a new paradigm
+https://ieeexplore.ieee.org/document/7781279
+
 Short-Term Wind Power Forecasting Using Gaussian Processes
 https://www.ijcai.org/Proceedings/13/Papers/411.pdf
 
